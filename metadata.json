@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: EcoSphere AI",
+  "description": "Assistente do Pantanal - Central de apresentação interativa com inteligência artificial, onde comandos de voz ou texto ativam os vídeos do Pantanal.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
